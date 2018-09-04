@@ -98,7 +98,7 @@ module.exports = (function() {
 				end: {
 					dateTime: now
 				},
-				attendees: [{'email': 'user_name@servoy.com'},]
+				attendees: [{'email': 'conference@mattermost.com'},]
 			},
 			auth: oauth2Client
 		}, function(err, event) {
